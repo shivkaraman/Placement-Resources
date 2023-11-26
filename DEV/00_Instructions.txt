@@ -1,6 +1,0 @@
-This folder is completely optional to read, If you have these skills mentioned in your resume do read it. 
-
-1. The **JS Fundamentals (CORE Concepts)** notes in this folder is just my handmade notes written refering to the playlist Namaste JS By Akshay Saini (https://youtube.com/playlist?list=PLxnjbfm5MCHFbRlyVCAqpJFdIzPN_IPID&si=pFjnkDZP2CDqe-nX). You can use this notes at the last moment to revise. 
-Well, I have written a bolg on this as well : https://shivkaraman.hashnode.dev/get-your-fundamentals-right-javascript-edition
-
-
