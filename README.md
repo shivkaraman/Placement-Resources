@@ -64,4 +64,4 @@ Tips:
 This is something that the interviewer will not expect much from you. But you must have at least a basic understanding of it. You should be in a position to at least give some answer instead of saying I don't Know. Refer to the pdf that I have in the root folder.
 
 ---
-## Download and extract files if the preview is not available
+## Download the whole repository and extract files if file preview is unavailable.
